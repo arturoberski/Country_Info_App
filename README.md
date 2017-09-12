@@ -1,7 +1,7 @@
 # Country_Info_App
 
-Link do projektu: https://arturoberski.github.io/Country_Info_App/
+Link to project: https://arturoberski.github.io/Country_Info_App/
 
-'Country Info App' to aplikacja, w której można sprawdzić podstawowe informacje o każdym państwie wybierając je na mapie. Aplikacja została napisana przy użyciu ReactJS, HTML, CSS oraz Javascript. W projekcie zastosowano bibliotekę React Simple Maps, dostępną pod linkiem (https://www.react-simple-maps.io/). Przy pomocy przycisków znajdujących się w nagłówku, możemy przybliżać lub oddalać wyróżnione fragmenty mapy. Po wybraniu państwa, z zewnętrznego API (https://restcountries.eu/) pobierane są odpowiednie dane, które nastęþnie są wyświetlane na ekranie.
+'Country Info App' is an web application where you can check some basic information about each country by selecting it on the map. The application was created using ReactJS, HTML, CSS, and Javascript. Project is based on 'React Simple Maps' library, available under link (https://www.react-simple-maps.io/). Using buttons in the header, you can zoom in or out specific parts of the map. When you select a country, external data is downloaded from the API (https://restcountries.eu/), which is then properly displayed on the screen.
 
-Dodatkowo zastosowano podejście RWD (reguły @media), aby aplikacja wyświetlała się dobrze na każdym ekranie.
+In addition, the RWD approach (@media rules) was used to make the application display well on every screen.
